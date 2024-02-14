@@ -1,7 +1,7 @@
 {
   "name": "info-job",
   "version": "1.0.0",
-  "description": "APP estudo criar sistema de gerenciamento de vagas",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
